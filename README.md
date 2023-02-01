@@ -1,1 +1,1 @@
-# inflearn-toby-s-spring-boot
+# inflearn-toby-spring-boot
